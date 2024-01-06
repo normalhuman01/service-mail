@@ -1,4 +1,4 @@
-# Mail Service
+# Service Mail
 
 Este servicio proporciona un sistema de envío de correos electrónicos con integración de RabbitMQ y MailDev. Es ideal para entornos de desarrollo y pruebas.
 
